@@ -4,6 +4,8 @@ import static org.junit.Assert.*;
 
 public class StudentTest {
 
+    Student s1;
+    Student s2;
 
     @Test
     public void TestCreateStudent(){
